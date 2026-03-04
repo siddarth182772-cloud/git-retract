@@ -7,3 +7,5 @@ print(type(name))
 print(type(age))
 print("hello everyone welcome to my channel ")
 print("I am currently learning devops")
+print("Chennai Super Kings is one of the successful IPL franchise .....")
+
